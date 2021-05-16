@@ -1,0 +1,7 @@
+this text will be encrypted
+by the program.
+While the text is provided as a sample,
+any text file with the name "toEncrypt.txt"
+will be encrypted by the program.
+The decrypted text can be found in "decrypted.txt,"
+and the encrypted text can be found in "encrypted.txt."
